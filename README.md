@@ -1,6 +1,6 @@
 # Drip X - Roblox Cheat Client
 
-**Drip X** is an advanced Roblox cheat client designed for a seamless and customizable ghost/semi-blantant cheating experience. With a clean, Neverlose-inspired GUI, Drip X includes powerful modules like aimbot, ESP, movement modifiers, antirecoil, and more — all fully adjustable through an intuitive interface.
+**Drip X** is an advanced Roblox cheat client designed for a seamless and customizable ghost/semi-blantant cheating experience. With a clean, Drip X includes powerful modules like aimbot, ESP, movement modifiers, antirecoil, and more — all fully adjustable through an intuitive interface.
 
 ## 🔥 Features
 
