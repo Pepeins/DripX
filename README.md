@@ -53,7 +53,7 @@ Navigate tabs like Combat, Visuals, Movement, and Settings.
 Enable or disable modules with simple switches and sliders.
 
 🤝 Contributing
-Contributions are welcome! Feel free to fork the repo, make your changes, and open a pull request. Please write clean code and comment any complex logic.
+Contributions are welcome! Feel free to fork the repo, make your changes, and open a pull request. Write clean code and comment any complex logic.
 ---
 
 Made with ❤️ by **Wesk**
