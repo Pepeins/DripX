@@ -39,7 +39,7 @@
 2. Load the following script:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pepeins/DripX/main/DripX.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pepeins/DripX/main/main.lua"))()
 ```
 Inject and execute in any supported game.
 
